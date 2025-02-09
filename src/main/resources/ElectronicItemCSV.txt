@@ -1,0 +1,5 @@
+101,Laptop,999.99,24
+102,Smartphone,699.99,12
+203,Headphones,199.99,18
+104,Tablet,499.99,24
+405,Smartwatch,249.99,12
